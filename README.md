@@ -17,7 +17,3 @@ Este repositório contém páginas modernas de **Login** e **Criar Conta** desen
 
 - HTML5
 - CSS3
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
